@@ -1,0 +1,4 @@
+npm install karma
+npm install -g karma-cli
+npm install karma-jasmine
+npm install karma-requirejs
