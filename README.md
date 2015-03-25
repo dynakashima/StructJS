@@ -3,6 +3,8 @@ to install follow the instructions.
 
 Install PhantomJS (brew is convenient)
 
+npm install karma-phantomjs-launcher --save-dev
+
 npm install karma
 
 npm install -g karma-cli
