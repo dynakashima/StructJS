@@ -1,5 +1,7 @@
 # StructJS
-to install follow the instructions below with admin rights (sudo).
+to install follow the instructions.
+
+Install PhantomJS (brew is convenient)
 
 npm install karma
 
